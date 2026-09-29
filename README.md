@@ -56,3 +56,6 @@ JSON Response Processing
 Financial Advice
   ↓
 Frontend Results
+## 🎥 Project Demo
+
+[▶️ Watch Personal AI Finance Advisor Demo](https://drive.google.com/file/d/1MazQT_W1ETomNHdlgw-Q7Uuv9FN0CMlO/view?usp=sharing)
